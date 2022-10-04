@@ -17,7 +17,7 @@ export default function orderByProps(param1, param2) {
 
   sortByKey(tmp);
 
-  for (let i = 0; i < tmp.length; i++) {
+  for (let i = 0; i < tmp.length; i += 1) {
     ar.push(
       { key: tmp[i], value: param1[tmp[i]] },
     );
