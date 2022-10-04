@@ -1,4 +1,4 @@
-# Домашнее задание к лекции «Object, Reflection и Proxy»
+# Домашнее задание к лекции «Object, Reflection и Proxy» [![Build status](https://ci.appveyor.com/api/projects/status/g9usrgvc496634hs?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-objectreflectionproxy)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
